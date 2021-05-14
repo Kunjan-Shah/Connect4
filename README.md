@@ -17,4 +17,5 @@ This is a 2 player game. Player1 is given red coins and Player2 is given black c
  * Javascipt
  * HTML5
  
- 
+ ## Screenshot
+ ![website image 1](/grid_img.png)
